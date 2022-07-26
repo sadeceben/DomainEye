@@ -12,7 +12,7 @@ from templates.templates import START
 
 
 class DomainEye:
-    """main class."""
+    """Main class."""
 
     def __init__(self, domain):
         self.domain = domain  # Domain value
